@@ -23,4 +23,4 @@ function check() {
     changeBgColor();
     changeBgText();
 }
-setInterval(check,200);
+setInterval(check,555);
